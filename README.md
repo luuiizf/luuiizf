@@ -1,24 +1,24 @@
-
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/luuiizf/luuiizf/blob/main/github-header-image%20(6).png" />
 &nbsp;&nbsp;&nbsp;
 
-<h1 align='center'>Sobre mim 🧑‍💻</h1>
-<p align="center">Olá! Me chamo Luiz Fernando, um desenvolvedor em formação de 20 anos, apaixonado por tecnologia e inovação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (TADS) no IFRN-CNAT, onde mergulho no fascinante universo da programação, sempre em busca de novas habilidades para aplicar no mundo real.
+<h1 align='center'>About Me 🧑‍💻</h1>
+<p align="center">Hello! My name is Luiz Fernando, a 20-year-old aspiring developer passionate about technology and innovation. Currently, I am pursuing a degree in Systems Analysis and Development (TADS) at IFRN-CNAT, where I dive into the fascinating world of programming, always seeking new skills to apply in the real world.
 
-Este perfil é uma janela para o meu progresso e crescimento como desenvolvedor. Desde conceitos iniciais até projetos mais complexos, aqui você encontrará uma mistura de práticas em várias linguagens e tecnologias. Cada repositório é um marco, cada linha de código uma pequena conquista rumo ao objetivo de me tornar um desenvolvedor completo e qualificado.</p>&nbsp;
+This profile is a window into my progress and growth as a developer. From initial concepts to more complex projects, here you will find a mix of practices in various languages and technologies. Each repository is a milestone, each line of code a small achievement towards my goal of becoming a complete and qualified developer.</p>&nbsp;
 
-<h1 align='center'>🌱 Estou aprendendo</h1>
-<p align="center">Meu foco está em aprimorar conhecimentos em Desenvolvimento Web, programação orientada a objetos e boas práticas de desenvolvimento. A cada dia, busco novas maneiras de tornar meus códigos mais eficientes e fáceis de manter.</p>&nbsp;
+<h1 align='center'>🌱 I’m Currently Learning</h1>
+<p align="center">My focus is on improving my knowledge in Web Development, object-oriented programming, and good development practices. Every day, I seek new ways to make my code more efficient and easier to maintain.</p>&nbsp;
 
-<h1 align='center'>🎯 Objetivo</h1>
-<p align="center">Com os pés firmes no presente e os olhos no futuro, minha meta é construir uma carreira sólida na área de desenvolvimento, criando soluções que façam a diferença e transformem ideias em realidade.</p>&nbsp;
+<h1 align='center'>🎯 Goal</h1>
+<p align="center">With my feet firmly in the present and my eyes on the future, my goal is to build a solid career in the development field, creating solutions that make a difference and turn ideas into reality.</p>&nbsp;
 
-<h1 align='center'>🧑‍💻 Experiências profissionais</h1>
-<p align="center">- Atuei como Quality Assurance(QA) na Global Coding Labs no projeto KFC desenvolvido para a Islândia.</p>&nbsp;
+<h1 align='center'>🧑‍💻 Professional Experience</h1>
+<p align="center">- I worked as a Quality Assurance (QA) at Global Coding Labs on the KFC project developed for Iceland.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=54% align="center"  src="https://github-readme-stats.vercel.app/api?username=luuiizf&theme=radical&show_icons=true&hide_border=false&count_private=true" />
-<img width=41% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuiizf&theme=radical&show_icons=true&hide_border=false&layout=compact" />
+
+<img width=54% align="center"  src="https://github-readme-stats.vercel.app/api?username=luuiizf&theme=react&show_icons=true&hide_border=false&count_private=true" />
+<img width=41% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuiizf&theme=react&show_icons=true&hide_border=false&layout=compact" />
  </div>
  
  &nbsp;
@@ -26,7 +26,7 @@ Este perfil é uma janela para o meu progresso e crescimento como desenvolvedor.
 
 
 
-## Minhas Skills
+## My Skills
 
 #### Main Stack:
 
@@ -37,20 +37,22 @@ Este perfil é uma janela para o meu progresso e crescimento como desenvolvedor.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-#### Estudando nesse momento:
+#### Studying at the moment:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-#### Ferramentas de Desenvolvimento:
+#### Development Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
@@ -58,7 +60,7 @@ Este perfil é uma janela para o meu progresso e crescimento como desenvolvedor.
 &nbsp;
 &nbsp;
 
-## Contatos:
+## Contacts:
 
 <div> 
 <a href="https://www.instagram.com/luiz.fnd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
