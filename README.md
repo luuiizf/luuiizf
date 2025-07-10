@@ -28,7 +28,7 @@ To build a solid full stack development career, contributing to meaningful proje
 - **QA Tester** – *Global Coding Labs* (Aug 2023 – Jan 2024)  
   KFC Project developed for Iceland  
 - **Front-End Developer** – *PLS - Sustainable Logistics* (June 2025)  
-- **Full Stack Developer** – *Strategi (Currently)*
+- **Full Stack Developer** – *Strategi Consultoria (July 2025 - Currently)*
 
 ---
 
